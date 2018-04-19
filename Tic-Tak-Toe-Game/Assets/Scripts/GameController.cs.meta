@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ed40721f918460b4e9cafc09e7a07ba1
+timeCreated: 1524082921
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverPanel: {fileID: 1519724335860042, guid: 5122a68aec377af44847651695a2d6b5,
+      type: 2}
+  - gameOverText: {instanceID: 0}
+  - restartButton: {fileID: 1826044342518556, guid: d6ab697f756c95c4eb7eb29ebde6a9b9,
+      type: 2}
+  - startInfo: {fileID: 1890711094077258, guid: 2914bea68b38be540ba407861f50a82e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
